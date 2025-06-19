@@ -122,7 +122,7 @@ dmypy.json
 chroma_db/
 
 # Large files
-*.epub
+# *.epub  # 允许上传EPUB文件
 
 # IDE
 .vscode/
